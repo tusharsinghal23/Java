@@ -1,0 +1,30 @@
+Collection core interface 
+
+  * Collection 
+  * List 
+  * Queue 
+  * Set 
+  * SortedSet
+  * NavigableSet
+  * Map 
+  * SortedMap 
+  * NavigableMap
+  
+   Map                   Set                 List              Utilites 
+  
+ * HashMap            * HashSet            * ArrayList       * Collection
+ * LinkedHashMap      * LinkedHashSet      * Vector          * Arrays
+ * TreeMap            * TreeSet            * LinkedList
+ * HashTable
+
+ * There are two interface Comparator and Comparable
+ 
+ * Comparator interface 
+   1. int compare(Object ob1, Object ob2)
+ 
+ * Comparable interface
+   1. int compareTo(Object ob)
+   
+ * Important points to remember 
+ 1. AutoBoxing is done automatically in Collection
+ 

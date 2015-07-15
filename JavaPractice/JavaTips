@@ -1,0 +1,71 @@
+Important Java Tips:
+
+1. instanceof
+
+2. Implements Serializable ( Marker Interface)
+
+3. Primitive data type are byte, short, int, long, float, double, char, boolean 
+
+4. The transient keyword in Java is used to indicate that a field should not be serialized
+
+5. Properties use to set vlaue at runtime
+
+6. While creating a project following things should be taken care
+   1. Exception class should always be localized
+   2. Constant should always be placed in separate util class
+   3. Bean should be used
+   4. JUnit should always be used instead of main function
+   5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for (Map.Entry<String, String> entry : finalData.entrySet()){ 
+					%><li class="mix page mix--all"><%
+					   
+							String tempName = "/"+entry.getValue()+"/Summary";
+							
+					  %><render:calltemplate tname='<%=tempName %>' c='<%=entry.getValue() %>' cid='<%=entry.getKey() %>' args="locale,site"/><%
+					
+				     %></li><!-- /promoButtonContainer --><%
+				     %><hr><%
+				      }

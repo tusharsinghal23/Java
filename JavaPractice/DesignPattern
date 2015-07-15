@@ -1,0 +1,36 @@
+ToolBox:
+
+1. Software Development will always go for change
+2. Check what thing will change and what will remain same
+3. No class should be derive from a concrete class. It should always be derived from Abstract or Interface
+
+OO Design Principles:
+1. Program to an Interface, not an implementation.
+2. HAS-A better than IS-A (Favor composition over inheritance)
+3. Classes should be open for extension, but closed for modification.
+4. Depend upon abstraction. Do not depend upon concrete classes.
+5. 
+
+
+Design Pattern:
+1. Strategy Pattern
+
+2. Observer Pattern
+
+3. Decorator Pattern
+
+4. Factory Pattern
+   The Factory method defined an interface for creating an object, but lets subclasses decide which 
+   class to instantiate. Factory method lets a class defer instantiation to subclasses.
+   
+5. Abstract Factory Pattern
+
+6. Singleton Pattern
+   The Singleton Pattern ensures  a class has only one instance, and provides a global point of access to it.
+
+
+OO Basics:
+1. Inheritance
+2. Encapsulation
+3. Abstraction
+4. Polymorphism

@@ -1,0 +1,12 @@
+Array Class function:
+1. sort(int[] arr);
+2. sort(byte[] arr);
+
+Collections Class function:
+1. sort(List<T> ob);
+2. sort(list<T> ob, Comparator<T> c);
+
+String Class function:
+1. indexOf(Char ch);
+2. charAt(int index);
+3. 
